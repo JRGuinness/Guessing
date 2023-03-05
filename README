@@ -2,7 +2,7 @@
 * JRGuinness' Guessing Game *
 *****************************
 
-This is a simple guessing game based off the one found in 'A Byte of Python' by Swaroop C H found at http://www.swaroopch.com/notes/python/
+This is a simple guessing game based off the one found in 'A Byte of Python' by Swaroop C H found at https://python.swaroopch.com/control_flow.html
 
 The original code can be found in the section titled "9.2. The while Statement".
 
